@@ -1,0 +1,21 @@
+# Atrium VR - Mobile version
+
+## Overview
+
+This project is a proof of concept (POC) application built in Unity to test the use case of enabling architects to present their 3D models in virtual reality. The application is designed to run on Meta Quest 2 and other modern VR headsets, providing a unique and immersive experience for clients to explore architectural designs in a virtual forest environment.
+
+## Features
+
+- The application pulls architectural 3D models from a separate server and renders them in a virtual forest terrain.
+  
+- Users can wear VR headsets to navigate and explore architectural designs in a realistic VR environment.
+
+- Architects can use this tool to effectively communicate their designs to clients, offering a more engaging and interactive presentation.
+
+## Demo
+
+<img align="center" alt="GIF" src="https://drive.google.com/file/d/1wydbXxByfedkSl-jtCGpB-qh_dQIM8bj/view?usp=drive_link" />
+
+## Disclaimer
+
+This is just a POC for a project that I worked on earlier and is not ready to be pulled and installed for development or use. The server in which models reside is not active and most of the configurations are hard-coded. I pushed the code to github so that it could help someone trying out this approach but is stuck somewhere. 
