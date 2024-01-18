@@ -7,6 +7,8 @@ This project is a proof of concept (POC) application built in Unity to test the 
 ## Features
 
 - The application pulls architectural 3D models from a separate server and renders them in a virtual forest terrain.
+
+- The Terrain is flattened in and around the area of the model for realism.
   
 - Users can wear VR headsets to navigate and explore architectural designs in a realistic VR environment.
 
@@ -14,7 +16,7 @@ This project is a proof of concept (POC) application built in Unity to test the 
 
 ## Demo
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJndWZ1MXdudnNpd2pmeWF5ZGt2aDFsM2gydndpaG55bnRtbnh2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5LfSGY18tZUQusgWVO/giphy-downsized-large.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR4aW54M2hjYW80bmd3MjRhbjNzcG0xc2poMGtwa2prdnR2bmlvOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MMvmhTI94KJLftfwsh/source.gif" />
 
 ## Disclaimer
 
